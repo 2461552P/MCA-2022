@@ -1,2 +1,7 @@
-# MCA
-\[Enter your responses to Week 1, tasks 2 and 3 here\]
+# Edens's MCA Project
+
+Week 1-
+
+Week 2-
+
+Week 3-
