@@ -1,4 +1,4 @@
-# Edens's MCA Project
+# Edens' MCA Project
 
 Week 1- The theme that is selected for this dataset is 
 
